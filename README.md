@@ -2,12 +2,12 @@
 
 Odin language implementations of Raylib core examples
 
-## References
+### References
 
-### Odin
+#### Odin
 
 https://odin-lang.org/
 
-### Raylib
+#### Raylib
 
 https://www.raylib.com/examples.html
