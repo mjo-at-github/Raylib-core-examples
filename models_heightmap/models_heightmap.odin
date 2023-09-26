@@ -51,6 +51,7 @@ main :: proc() {
             rl.EndMode3D()
 
             rl.DrawTexture(texture, screenWidth - texture.width - 20, 20, rl.WHITE)
+
             rl.DrawRectangleLines(screenWidth - texture.width - 20, 20, texture.width, texture.height, rl.GREEN)
 
             rl.DrawFPS(10, 10)
