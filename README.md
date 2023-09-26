@@ -1,6 +1,6 @@
 # Raylib core examples
 
-Odin language implementations of Raylib core examples
+Odin language implementations of one star (⭐️☆☆☆) Raylib core examples
 
 ### References
 
